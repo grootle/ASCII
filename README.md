@@ -10,7 +10,7 @@ This is a Python project that takes an image and converts it to ASCII. Features 
 
 First clone the project on your system
 ```bash
-git clone https://github.com/ArianN8610/ASCII.git
+git clone https://github.com/grootle/ASCII.git
 ```
 Create a new venv(Virtual Environment) and activate it  
 Then install the project requirements
